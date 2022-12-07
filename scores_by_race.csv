@@ -1,0 +1,645 @@
+﻿state,race,score_2019,score_2022,subject
+Arizona,White,228,229,reading_4
+Arizona,Black,206,205,reading_4
+Arizona,Hispanic,205,205,reading_4
+Arizona,Asian,NA,NA,reading_4
+Arizona,American Indian/Alaska Native,196,190,reading_4
+Arizona,Native Hawaiian/Other Pacific Islander,NA,NA,reading_4
+Arizona,Two or more races,227,NA,reading_4
+California,White,234,231,reading_4
+California,Black,197,194,reading_4
+California,Hispanic,207,202,reading_4
+California,Asian,238,244,reading_4
+California,American Indian/Alaska Native,NA,NA,reading_4
+California,Native Hawaiian/Other Pacific Islander,NA,NA,reading_4
+California,Two or more races,233,231,reading_4
+Connecticut,White,237,233,reading_4
+Connecticut,Black,204,198,reading_4
+Connecticut,Hispanic,204,199,reading_4
+Connecticut,Asian,248,241,reading_4
+Connecticut,American Indian/Alaska Native,NA,NA,reading_4
+Connecticut,Native Hawaiian/Other Pacific Islander,NA,NA,reading_4
+Connecticut,Two or more races,231,NA,reading_4
+District of Columbia,White,258,262,reading_4
+District of Columbia,Black,204,193,reading_4
+District of Columbia,Hispanic,213,202,reading_4
+District of Columbia,Asian,NA,NA,reading_4
+District of Columbia,American Indian/Alaska Native,NA,NA,reading_4
+District of Columbia,Native Hawaiian/Other Pacific Islander,NA,NA,reading_4
+District of Columbia,Two or more races,250,NA,reading_4
+Florida,White,233,234,reading_4
+Florida,Black,211,207,reading_4
+Florida,Hispanic,221,222,reading_4
+Florida,Asian,249,255,reading_4
+Florida,American Indian/Alaska Native,NA,NA,reading_4
+Florida,Native Hawaiian/Other Pacific Islander,NA,NA,reading_4
+Florida,Two or more races,222,232,reading_4
+Illinois,White,228,228,reading_4
+Illinois,Black,200,194,reading_4
+Illinois,Hispanic,208,205,reading_4
+Illinois,Asian,238,249,reading_4
+Illinois,American Indian/Alaska Native,NA,NA,reading_4
+Illinois,Native Hawaiian/Other Pacific Islander,NA,NA,reading_4
+Illinois,Two or more races,229,223,reading_4
+Indiana,White,228,224,reading_4
+Indiana,Black,200,194,reading_4
+Indiana,Hispanic,211,210,reading_4
+Indiana,Asian,232,NA,reading_4
+Indiana,American Indian/Alaska Native,NA,NA,reading_4
+Indiana,Native Hawaiian/Other Pacific Islander,NA,NA,reading_4
+Indiana,Two or more races,219,214,reading_4
+Massachusetts,White,239,235,reading_4
+Massachusetts,Black,213,207,reading_4
+Massachusetts,Hispanic,212,204,reading_4
+Massachusetts,Asian,245,248,reading_4
+Massachusetts,American Indian/Alaska Native,NA,NA,reading_4
+Massachusetts,Native Hawaiian/Other Pacific Islander,NA,NA,reading_4
+Massachusetts,Two or more races,253,243,reading_4
+Michigan,White,224,220,reading_4
+Michigan,Black,199,188,reading_4
+Michigan,Hispanic,207,202,reading_4
+Michigan,Asian,233,NA,reading_4
+Michigan,American Indian/Alaska Native,NA,NA,reading_4
+Michigan,Native Hawaiian/Other Pacific Islander,NA,NA,reading_4
+Michigan,Two or more races,220,215,reading_4
+Minnesota,White,231,226,reading_4
+Minnesota,Black,201,193,reading_4
+Minnesota,Hispanic,202,197,reading_4
+Minnesota,Asian,224,203,reading_4
+Minnesota,American Indian/Alaska Native,194,NA,reading_4
+Minnesota,Native Hawaiian/Other Pacific Islander,NA,NA,reading_4
+Minnesota,Two or more races,221,212,reading_4
+Missouri,White,221,219,reading_4
+Missouri,Black,200,186,reading_4
+Missouri,Hispanic,213,210,reading_4
+Missouri,Asian,NA,NA,reading_4
+Missouri,American Indian/Alaska Native,NA,NA,reading_4
+Missouri,Native Hawaiian/Other Pacific Islander,NA,NA,reading_4
+Missouri,Two or more races,222,219,reading_4
+New Hampshire,White,226,224,reading_4
+New Hampshire,Black,NA,NA,reading_4
+New Hampshire,Hispanic,208,197,reading_4
+New Hampshire,Asian,232,237,reading_4
+New Hampshire,American Indian/Alaska Native,NA,NA,reading_4
+New Hampshire,Native Hawaiian/Other Pacific Islander,NA,NA,reading_4
+New Hampshire,Two or more races,NA,NA,reading_4
+New Jersey,White,238,231,reading_4
+New Jersey,Black,211,203,reading_4
+New Jersey,Hispanic,213,210,reading_4
+New Jersey,Asian,248,250,reading_4
+New Jersey,American Indian/Alaska Native,NA,NA,reading_4
+New Jersey,Native Hawaiian/Other Pacific Islander,NA,NA,reading_4
+New Jersey,Two or more races,NA,229,reading_4
+New York,White,229,223,reading_4
+New York,Black,203,194,reading_4
+New York,Hispanic,209,206,reading_4
+New York,Asian,235,235,reading_4
+New York,American Indian/Alaska Native,NA,NA,reading_4
+New York,Native Hawaiian/Other Pacific Islander,NA,NA,reading_4
+New York,Two or more races,232,NA,reading_4
+North Carolina,White,232,229,reading_4
+North Carolina,Black,208,198,reading_4
+North Carolina,Hispanic,211,206,reading_4
+North Carolina,Asian,242,242,reading_4
+North Carolina,American Indian/Alaska Native,200,NA,reading_4
+North Carolina,Native Hawaiian/Other Pacific Islander,NA,NA,reading_4
+North Carolina,Two or more races,227,209,reading_4
+North Dakota,White,226,222,reading_4
+North Dakota,Black,209,189,reading_4
+North Dakota,Hispanic,209,202,reading_4
+North Dakota,Asian,NA,NA,reading_4
+North Dakota,American Indian/Alaska Native,202,206,reading_4
+North Dakota,Native Hawaiian/Other Pacific Islander,NA,NA,reading_4
+North Dakota,Two or more races,NA,215,reading_4
+Ohio,White,228,225,reading_4
+Ohio,Black,200,190,reading_4
+Ohio,Hispanic,211,195,reading_4
+Ohio,Asian,245,NA,reading_4
+Ohio,American Indian/Alaska Native,NA,NA,reading_4
+Ohio,Native Hawaiian/Other Pacific Islander,NA,NA,reading_4
+Ohio,Two or more races,214,221,reading_4
+Tennessee,White,227,222,reading_4
+Tennessee,Black,204,193,reading_4
+Tennessee,Hispanic,202,206,reading_4
+Tennessee,Asian,NA,NA,reading_4
+Tennessee,American Indian/Alaska Native,NA,NA,reading_4
+Tennessee,Native Hawaiian/Other Pacific Islander,NA,NA,reading_4
+Tennessee,Two or more races,226,214,reading_4
+Texas,White,232,228,reading_4
+Texas,Black,205,204,reading_4
+Texas,Hispanic,208,205,reading_4
+Texas,Asian,247,251,reading_4
+Texas,American Indian/Alaska Native,NA,NA,reading_4
+Texas,Native Hawaiian/Other Pacific Islander,NA,NA,reading_4
+Texas,Two or more races,225,226,reading_4
+Utah,White,230,228,reading_4
+Utah,Black,NA,NA,reading_4
+Utah,Hispanic,207,200,reading_4
+Utah,Asian,NA,NA,reading_4
+Utah,American Indian/Alaska Native,191,NA,reading_4
+Utah,Native Hawaiian/Other Pacific Islander,NA,NA,reading_4
+Utah,Two or more races,226,NA,reading_4
+Virginia,White,231,224,reading_4
+Virginia,Black,207,195,reading_4
+Virginia,Hispanic,211,194,reading_4
+Virginia,Asian,244,232,reading_4
+Virginia,American Indian/Alaska Native,NA,NA,reading_4
+Virginia,Native Hawaiian/Other Pacific Islander,NA,NA,reading_4
+Virginia,Two or more races,228,226,reading_4
+Washington,White,228,226,reading_4
+Washington,Black,209,210,reading_4
+Washington,Hispanic,202,194,reading_4
+Washington,Asian,234,230,reading_4
+Washington,American Indian/Alaska Native,204,NA,reading_4
+Washington,Native Hawaiian/Other Pacific Islander,NA,NA,reading_4
+Washington,Two or more races,227,227,reading_4
+Wisconsin,White,227,226,reading_4
+Wisconsin,Black,188,186,reading_4
+Wisconsin,Hispanic,208,202,reading_4
+Wisconsin,Asian,223,219,reading_4
+Wisconsin,American Indian/Alaska Native,198,NA,reading_4
+Wisconsin,Native Hawaiian/Other Pacific Islander,NA,NA,reading_4
+Wisconsin,Two or more races,219,218,reading_4
+Arizona,White,273,269,reading_8
+Arizona,Black,239,244,reading_8
+Arizona,Hispanic,251,252,reading_8
+Arizona,Asian,NA,287,reading_8
+Arizona,American Indian/Alaska Native,240,242,reading_8
+Arizona,Native Hawaiian/Other Pacific Islander,NA,NA,reading_8
+Arizona,Two or more races,NA,NA,reading_8
+California,White,274,269,reading_8
+California,Black,236,245,reading_8
+California,Hispanic,249,249,reading_8
+California,Asian,284,283,reading_8
+California,American Indian/Alaska Native,NA,NA,reading_8
+California,Native Hawaiian/Other Pacific Islander,NA,NA,reading_8
+California,Two or more races,268,276,reading_8
+Connecticut,White,279,275,reading_8
+Connecticut,Black,251,244,reading_8
+Connecticut,Hispanic,253,247,reading_8
+Connecticut,Asian,286,285,reading_8
+Connecticut,American Indian/Alaska Native,NA,NA,reading_8
+Connecticut,Native Hawaiian/Other Pacific Islander,NA,NA,reading_8
+Connecticut,Two or more races,NA,268,reading_8
+District of Columbia,White,299,296,reading_8
+District of Columbia,Black,241,242,reading_8
+District of Columbia,Hispanic,250,246,reading_8
+District of Columbia,Asian,NA,NA,reading_8
+District of Columbia,American Indian/Alaska Native,NA,NA,reading_8
+District of Columbia,Native Hawaiian/Other Pacific Islander,NA,NA,reading_8
+District of Columbia,Two or more races,NA,NA,reading_8
+Florida,White,273,265,reading_8
+Florida,Black,248,247,reading_8
+Florida,Hispanic,259,260,reading_8
+Florida,Asian,285,275,reading_8
+Florida,American Indian/Alaska Native,NA,NA,reading_8
+Florida,Native Hawaiian/Other Pacific Islander,NA,NA,reading_8
+Florida,Two or more races,277,264,reading_8
+Illinois,White,274,270,reading_8
+Illinois,Black,246,241,reading_8
+Illinois,Hispanic,255,254,reading_8
+Illinois,Asian,290,288,reading_8
+Illinois,American Indian/Alaska Native,NA,NA,reading_8
+Illinois,Native Hawaiian/Other Pacific Islander,NA,NA,reading_8
+Illinois,Two or more races,263,274,reading_8
+Indiana,White,271,266,reading_8
+Indiana,Black,245,240,reading_8
+Indiana,Hispanic,259,251,reading_8
+Indiana,Asian,NA,NA,reading_8
+Indiana,American Indian/Alaska Native,NA,NA,reading_8
+Indiana,Native Hawaiian/Other Pacific Islander,NA,NA,reading_8
+Indiana,Two or more races,257,261,reading_8
+Massachusetts,White,279,275,reading_8
+Massachusetts,Black,259,254,reading_8
+Massachusetts,Hispanic,251,252,reading_8
+Massachusetts,Asian,292,289,reading_8
+Massachusetts,American Indian/Alaska Native,NA,NA,reading_8
+Massachusetts,Native Hawaiian/Other Pacific Islander,NA,NA,reading_8
+Massachusetts,Two or more races,277,266,reading_8
+Michigan,White,267,264,reading_8
+Michigan,Black,243,237,reading_8
+Michigan,Hispanic,253,250,reading_8
+Michigan,Asian,280,NA,reading_8
+Michigan,American Indian/Alaska Native,NA,NA,reading_8
+Michigan,Native Hawaiian/Other Pacific Islander,NA,NA,reading_8
+Michigan,Two or more races,267,254,reading_8
+Minnesota,White,271,269,reading_8
+Minnesota,Black,236,237,reading_8
+Minnesota,Hispanic,247,242,reading_8
+Minnesota,Asian,268,265,reading_8
+Minnesota,American Indian/Alaska Native,237,NA,reading_8
+Minnesota,Native Hawaiian/Other Pacific Islander,NA,NA,reading_8
+Minnesota,Two or more races,261,260,reading_8
+Missouri,White,267,264,reading_8
+Missouri,Black,240,230,reading_8
+Missouri,Hispanic,258,253,reading_8
+Missouri,Asian,NA,NA,reading_8
+Missouri,American Indian/Alaska Native,NA,NA,reading_8
+Missouri,Native Hawaiian/Other Pacific Islander,NA,NA,reading_8
+Missouri,Two or more races,268,253,reading_8
+New Hampshire,White,269,264,reading_8
+New Hampshire,Black,NA,NA,reading_8
+New Hampshire,Hispanic,251,245,reading_8
+New Hampshire,Asian,278,280,reading_8
+New Hampshire,American Indian/Alaska Native,NA,NA,reading_8
+New Hampshire,Native Hawaiian/Other Pacific Islander,NA,NA,reading_8
+New Hampshire,Two or more races,NA,NA,reading_8
+New Jersey,White,281,280,reading_8
+New Jersey,Black,250,249,reading_8
+New Jersey,Hispanic,251,254,reading_8
+New Jersey,Asian,297,298,reading_8
+New Jersey,American Indian/Alaska Native,NA,NA,reading_8
+New Jersey,Native Hawaiian/Other Pacific Islander,NA,NA,reading_8
+New Jersey,Two or more races,NA,NA,reading_8
+New York,White,272,273,reading_8
+New York,Black,248,246,reading_8
+New York,Hispanic,249,248,reading_8
+New York,Asian,274,277,reading_8
+New York,American Indian/Alaska Native,NA,NA,reading_8
+New York,Native Hawaiian/Other Pacific Islander,NA,NA,reading_8
+New York,Two or more races,NA,NA,reading_8
+North Carolina,White,272,265,reading_8
+North Carolina,Black,244,242,reading_8
+North Carolina,Hispanic,256,252,reading_8
+North Carolina,Asian,285,276,reading_8
+North Carolina,American Indian/Alaska Native,249,NA,reading_8
+North Carolina,Native Hawaiian/Other Pacific Islander,NA,NA,reading_8
+North Carolina,Two or more races,264,255,reading_8
+North Dakota,White,267,263,reading_8
+North Dakota,Black,246,237,reading_8
+North Dakota,Hispanic,250,249,reading_8
+North Dakota,Asian,NA,NA,reading_8
+North Dakota,American Indian/Alaska Native,249,234,reading_8
+North Dakota,Native Hawaiian/Other Pacific Islander,NA,NA,reading_8
+North Dakota,Two or more races,NA,250,reading_8
+Ohio,White,274,267,reading_8
+Ohio,Black,241,241,reading_8
+Ohio,Hispanic,259,246,reading_8
+Ohio,Asian,NA,277,reading_8
+Ohio,American Indian/Alaska Native,NA,NA,reading_8
+Ohio,Native Hawaiian/Other Pacific Islander,NA,NA,reading_8
+Ohio,Two or more races,259,253,reading_8
+Tennessee,White,268,265,reading_8
+Tennessee,Black,246,241,reading_8
+Tennessee,Hispanic,253,246,reading_8
+Tennessee,Asian,289,NA,reading_8
+Tennessee,American Indian/Alaska Native,NA,NA,reading_8
+Tennessee,Native Hawaiian/Other Pacific Islander,NA,NA,reading_8
+Tennessee,Two or more races,268,265,reading_8
+Texas,White,267,264,reading_8
+Texas,Black,238,247,reading_8
+Texas,Hispanic,250,248,reading_8
+Texas,Asian,287,286,reading_8
+Texas,American Indian/Alaska Native,NA,NA,reading_8
+Texas,Native Hawaiian/Other Pacific Islander,NA,NA,reading_8
+Texas,Two or more races,258,266,reading_8
+Utah,White,273,271,reading_8
+Utah,Black,NA,NA,reading_8
+Utah,Hispanic,251,247,reading_8
+Utah,Asian,NA,NA,reading_8
+Utah,American Indian/Alaska Native,232,NA,reading_8
+Utah,Native Hawaiian/Other Pacific Islander,NA,NA,reading_8
+Utah,Two or more races,NA,NA,reading_8
+Virginia,White,271,266,reading_8
+Virginia,Black,243,242,reading_8
+Virginia,Hispanic,247,246,reading_8
+Virginia,Asian,286,284,reading_8
+Virginia,American Indian/Alaska Native,NA,NA,reading_8
+Virginia,Native Hawaiian/Other Pacific Islander,NA,NA,reading_8
+Virginia,Two or more races,269,266,reading_8
+Washington,White,275,268,reading_8
+Washington,Black,236,240,reading_8
+Washington,Hispanic,248,249,reading_8
+Washington,Asian,285,281,reading_8
+Washington,American Indian/Alaska Native,237,NA,reading_8
+Washington,Native Hawaiian/Other Pacific Islander,NA,NA,reading_8
+Washington,Two or more races,263,265,reading_8
+Wisconsin,White,274,269,reading_8
+Wisconsin,Black,235,231,reading_8
+Wisconsin,Hispanic,251,250,reading_8
+Wisconsin,Asian,277,271,reading_8
+Wisconsin,American Indian/Alaska Native,253,NA,reading_8
+Wisconsin,Native Hawaiian/Other Pacific Islander,NA,NA,reading_8
+Wisconsin,Two or more races,268,260,reading_8
+Arizona,White,250,247,math_4
+Arizona,Black,223,215,math_4
+Arizona,Hispanic,227,221,math_4
+Arizona,Asian,268,255,math_4
+Arizona,American Indian/Alaska Native,217,203,math_4
+Arizona,Native Hawaiian/Other Pacific Islander,NA,NA,math_4
+Arizona,Two or more races,246,246,math_4
+California,White,250,245,math_4
+California,Black,224,215,math_4
+California,Hispanic,225,219,math_4
+California,Asian,259,261,math_4
+California,American Indian/Alaska Native,NA,NA,math_4
+California,Native Hawaiian/Other Pacific Islander,NA,NA,math_4
+California,Two or more races,251,239,math_4
+Connecticut,White,252,248,math_4
+Connecticut,Black,227,211,math_4
+Connecticut,Hispanic,228,219,math_4
+Connecticut,Asian,265,262,math_4
+Connecticut,American Indian/Alaska Native,NA,NA,math_4
+Connecticut,Native Hawaiian/Other Pacific Islander,NA,NA,math_4
+Connecticut,Two or more races,249,251,math_4
+District of Columbia,White,273,267,math_4
+District of Columbia,Black,226,210,math_4
+District of Columbia,Hispanic,233,223,math_4
+District of Columbia,Asian,NA,NA,math_4
+District of Columbia,American Indian/Alaska Native,NA,NA,math_4
+District of Columbia,Native Hawaiian/Other Pacific Islander,NA,NA,math_4
+District of Columbia,Two or more races,NA,254,math_4
+Florida,White,254,253,math_4
+Florida,Black,233,225,math_4
+Florida,Hispanic,242,236,math_4
+Florida,Asian,266,264,math_4
+Florida,American Indian/Alaska Native,NA,NA,math_4
+Florida,Native Hawaiian/Other Pacific Islander,NA,NA,math_4
+Florida,Two or more races,246,244,math_4
+Illinois,White,246,248,math_4
+Illinois,Black,217,214,math_4
+Illinois,Hispanic,231,222,math_4
+Illinois,Asian,259,265,math_4
+Illinois,American Indian/Alaska Native,NA,NA,math_4
+Illinois,Native Hawaiian/Other Pacific Islander,NA,NA,math_4
+Illinois,Two or more races,238,250,math_4
+Indiana,White,250,246,math_4
+Indiana,Black,223,220,math_4
+Indiana,Hispanic,235,224,math_4
+Indiana,Asian,258,NA,math_4
+Indiana,American Indian/Alaska Native,NA,NA,math_4
+Indiana,Native Hawaiian/Other Pacific Islander,NA,NA,math_4
+Indiana,Two or more races,243,234,math_4
+Massachusetts,White,254,248,math_4
+Massachusetts,Black,232,223,math_4
+Massachusetts,Hispanic,232,222,math_4
+Massachusetts,Asian,273,269,math_4
+Massachusetts,American Indian/Alaska Native,NA,NA,math_4
+Massachusetts,Native Hawaiian/Other Pacific Islander,NA,NA,math_4
+Massachusetts,Two or more races,245,247,math_4
+Michigan,White,243,241,math_4
+Michigan,Black,213,206,math_4
+Michigan,Hispanic,226,229,math_4
+Michigan,Asian,258,261,math_4
+Michigan,American Indian/Alaska Native,NA,NA,math_4
+Michigan,Native Hawaiian/Other Pacific Islander,NA,NA,math_4
+Michigan,Two or more races,232,230,math_4
+Minnesota,White,258,250,math_4
+Minnesota,Black,226,214,math_4
+Minnesota,Hispanic,224,217,math_4
+Minnesota,Asian,252,234,math_4
+Minnesota,American Indian/Alaska Native,222,NA,math_4
+Minnesota,Native Hawaiian/Other Pacific Islander,NA,NA,math_4
+Minnesota,Two or more races,245,234,math_4
+Missouri,White,244,239,math_4
+Missouri,Black,216,204,math_4
+Missouri,Hispanic,234,228,math_4
+Missouri,Asian,NA,NA,math_4
+Missouri,American Indian/Alaska Native,NA,NA,math_4
+Missouri,Native Hawaiian/Other Pacific Islander,NA,NA,math_4
+Missouri,Two or more races,239,232,math_4
+New Hampshire,White,246,240,math_4
+New Hampshire,Black,228,NA,math_4
+New Hampshire,Hispanic,227,219,math_4
+New Hampshire,Asian,265,NA,math_4
+New Hampshire,American Indian/Alaska Native,NA,NA,math_4
+New Hampshire,Native Hawaiian/Other Pacific Islander,NA,NA,math_4
+New Hampshire,Two or more races,NA,NA,math_4
+New Jersey,White,254,249,math_4
+New Jersey,Black,230,217,math_4
+New Jersey,Hispanic,233,225,math_4
+New Jersey,Asian,270,271,math_4
+New Jersey,American Indian/Alaska Native,NA,NA,math_4
+New Jersey,Native Hawaiian/Other Pacific Islander,NA,NA,math_4
+New Jersey,Two or more races,NA,241,math_4
+New York,White,245,237,math_4
+New York,Black,218,212,math_4
+New York,Hispanic,225,214,math_4
+New York,Asian,261,252,math_4
+New York,American Indian/Alaska Native,NA,NA,math_4
+New York,Native Hawaiian/Other Pacific Islander,NA,NA,math_4
+New York,Two or more races,245,220,math_4
+North Carolina,White,252,246,math_4
+North Carolina,Black,227,219,math_4
+North Carolina,Hispanic,235,225,math_4
+North Carolina,Asian,271,270,math_4
+North Carolina,American Indian/Alaska Native,222,NA,math_4
+North Carolina,Native Hawaiian/Other Pacific Islander,NA,NA,math_4
+North Carolina,Two or more races,233,240,math_4
+North Dakota,White,247,245,math_4
+North Dakota,Black,230,216,math_4
+North Dakota,Hispanic,227,225,math_4
+North Dakota,Asian,NA,NA,math_4
+North Dakota,American Indian/Alaska Native,228,217,math_4
+North Dakota,Native Hawaiian/Other Pacific Islander,NA,NA,math_4
+North Dakota,Two or more races,NA,236,math_4
+Ohio,White,246,245,math_4
+Ohio,Black,221,208,math_4
+Ohio,Hispanic,230,211,math_4
+Ohio,Asian,266,255,math_4
+Ohio,American Indian/Alaska Native,NA,NA,math_4
+Ohio,Native Hawaiian/Other Pacific Islander,NA,NA,math_4
+Ohio,Two or more races,240,235,math_4
+Tennessee,White,247,245,math_4
+Tennessee,Black,227,215,math_4
+Tennessee,Hispanic,224,227,math_4
+Tennessee,Asian,NA,NA,math_4
+Tennessee,American Indian/Alaska Native,NA,NA,math_4
+Tennessee,Native Hawaiian/Other Pacific Islander,NA,NA,math_4
+Tennessee,Two or more races,244,243,math_4
+Texas,White,254,252,math_4
+Texas,Black,233,226,math_4
+Texas,Hispanic,238,231,math_4
+Texas,Asian,275,265,math_4
+Texas,American Indian/Alaska Native,NA,NA,math_4
+Texas,Native Hawaiian/Other Pacific Islander,NA,NA,math_4
+Texas,Two or more races,249,256,math_4
+Utah,White,249,247,math_4
+Utah,Black,NA,NA,math_4
+Utah,Hispanic,225,218,math_4
+Utah,Asian,NA,NA,math_4
+Utah,American Indian/Alaska Native,NA,NA,math_4
+Utah,Native Hawaiian/Other Pacific Islander,NA,NA,math_4
+Utah,Two or more races,245,244,math_4
+Virginia,White,253,247,math_4
+Virginia,Black,232,213,math_4
+Virginia,Hispanic,238,221,math_4
+Virginia,Asian,270,260,math_4
+Virginia,American Indian/Alaska Native,NA,NA,math_4
+Virginia,Native Hawaiian/Other Pacific Islander,NA,NA,math_4
+Virginia,Two or more races,249,238,math_4
+Washington,White,246,242,math_4
+Washington,Black,223,220,math_4
+Washington,Hispanic,227,221,math_4
+Washington,Asian,264,252,math_4
+Washington,American Indian/Alaska Native,223,NA,math_4
+Washington,Native Hawaiian/Other Pacific Islander,NA,NA,math_4
+Washington,Two or more races,241,238,math_4
+Wisconsin,White,249,248,math_4
+Wisconsin,Black,212,201,math_4
+Wisconsin,Hispanic,228,225,math_4
+Wisconsin,Asian,241,244,math_4
+Wisconsin,American Indian/Alaska Native,230,NA,math_4
+Wisconsin,Native Hawaiian/Other Pacific Islander,NA,NA,math_4
+Wisconsin,Two or more races,236,241,math_4
+Arizona,White,295,286,math_8
+Arizona,Black,267,253,math_8
+Arizona,Hispanic,269,261,math_8
+Arizona,Asian,314,303,math_8
+Arizona,American Indian/Alaska Native,259,249,math_8
+Arizona,Native Hawaiian/Other Pacific Islander,NA,NA,math_8
+Arizona,Two or more races,NA,NA,math_8
+California,White,294,284,math_8
+California,Black,252,248,math_8
+California,Hispanic,262,257,math_8
+California,Asian,311,308,math_8
+California,American Indian/Alaska Native,NA,NA,math_8
+California,Native Hawaiian/Other Pacific Islander,NA,NA,math_8
+California,Two or more races,291,281,math_8
+Connecticut,White,299,290,math_8
+Connecticut,Black,256,249,math_8
+Connecticut,Hispanic,263,257,math_8
+Connecticut,Asian,329,315,math_8
+Connecticut,American Indian/Alaska Native,NA,NA,math_8
+Connecticut,Native Hawaiian/Other Pacific Islander,NA,NA,math_8
+Connecticut,Two or more races,284,NA,math_8
+District of Columbia,White,323,315,math_8
+District of Columbia,Black,260,250,math_8
+District of Columbia,Hispanic,267,257,math_8
+District of Columbia,Asian,NA,NA,math_8
+District of Columbia,American Indian/Alaska Native,NA,NA,math_8
+District of Columbia,Native Hawaiian/Other Pacific Islander,NA,NA,math_8
+District of Columbia,Two or more races,NA,NA,math_8
+Florida,White,289,282,math_8
+Florida,Black,259,255,math_8
+Florida,Hispanic,276,267,math_8
+Florida,Asian,313,302,math_8
+Florida,American Indian/Alaska Native,NA,NA,math_8
+Florida,Native Hawaiian/Other Pacific Islander,NA,NA,math_8
+Florida,Two or more races,279,275,math_8
+Illinois,White,291,286,math_8
+Illinois,Black,262,254,math_8
+Illinois,Hispanic,273,262,math_8
+Illinois,Asian,320,308,math_8
+Illinois,American Indian/Alaska Native,NA,NA,math_8
+Illinois,Native Hawaiian/Other Pacific Islander,NA,NA,math_8
+Illinois,Two or more races,286,276,math_8
+Indiana,White,292,287,math_8
+Indiana,Black,262,249,math_8
+Indiana,Hispanic,274,267,math_8
+Indiana,Asian,NA,NA,math_8
+Indiana,American Indian/Alaska Native,NA,NA,math_8
+Indiana,Native Hawaiian/Other Pacific Islander,NA,NA,math_8
+Indiana,Two or more races,278,265,math_8
+Massachusetts,White,302,290,math_8
+Massachusetts,Black,267,260,math_8
+Massachusetts,Hispanic,269,262,math_8
+Massachusetts,Asian,331,321,math_8
+Massachusetts,American Indian/Alaska Native,NA,NA,math_8
+Massachusetts,Native Hawaiian/Other Pacific Islander,NA,NA,math_8
+Massachusetts,Two or more races,299,287,math_8
+Michigan,White,287,279,math_8
+Michigan,Black,253,245,math_8
+Michigan,Hispanic,268,261,math_8
+Michigan,Asian,302,313,math_8
+Michigan,American Indian/Alaska Native,NA,NA,math_8
+Michigan,Native Hawaiian/Other Pacific Islander,NA,NA,math_8
+Michigan,Two or more races,273,267,math_8
+Minnesota,White,300,290,math_8
+Minnesota,Black,255,254,math_8
+Minnesota,Hispanic,268,253,math_8
+Minnesota,Asian,298,287,math_8
+Minnesota,American Indian/Alaska Native,268,NA,math_8
+Minnesota,Native Hawaiian/Other Pacific Islander,NA,NA,math_8
+Minnesota,Two or more races,288,283,math_8
+Missouri,White,286,278,math_8
+Missouri,Black,258,245,math_8
+Missouri,Hispanic,268,263,math_8
+Missouri,Asian,NA,NA,math_8
+Missouri,American Indian/Alaska Native,NA,NA,math_8
+Missouri,Native Hawaiian/Other Pacific Islander,NA,NA,math_8
+Missouri,Two or more races,281,266,math_8
+New Hampshire,White,288,280,math_8
+New Hampshire,Black,267,NA,math_8
+New Hampshire,Hispanic,267,252,math_8
+New Hampshire,Asian,307,301,math_8
+New Hampshire,American Indian/Alaska Native,NA,NA,math_8
+New Hampshire,Native Hawaiian/Other Pacific Islander,NA,NA,math_8
+New Hampshire,Two or more races,NA,NA,math_8
+New Jersey,White,304,293,math_8
+New Jersey,Black,266,251,math_8
+New Jersey,Hispanic,269,264,math_8
+New Jersey,Asian,329,318,math_8
+New Jersey,American Indian/Alaska Native,NA,NA,math_8
+New Jersey,Native Hawaiian/Other Pacific Islander,NA,NA,math_8
+New Jersey,Two or more races,NA,NA,math_8
+New York,White,292,286,math_8
+New York,Black,258,251,math_8
+New York,Hispanic,263,260,math_8
+New York,Asian,309,304,math_8
+New York,American Indian/Alaska Native,NA,NA,math_8
+New York,Native Hawaiian/Other Pacific Islander,NA,NA,math_8
+New York,Two or more races,NA,NA,math_8
+North Carolina,White,295,286,math_8
+North Carolina,Black,264,255,math_8
+North Carolina,Hispanic,273,266,math_8
+North Carolina,Asian,322,309,math_8
+North Carolina,American Indian/Alaska Native,262,NA,math_8
+North Carolina,Native Hawaiian/Other Pacific Islander,NA,NA,math_8
+North Carolina,Two or more races,286,276,math_8
+North Dakota,White,292,284,math_8
+North Dakota,Black,254,252,math_8
+North Dakota,Hispanic,276,259,math_8
+North Dakota,Asian,NA,NA,math_8
+North Dakota,American Indian/Alaska Native,264,260,math_8
+North Dakota,Native Hawaiian/Other Pacific Islander,NA,NA,math_8
+North Dakota,Two or more races,NA,267,math_8
+Ohio,White,293,282,math_8
+Ohio,Black,259,248,math_8
+Ohio,Hispanic,274,264,math_8
+Ohio,Asian,308,309,math_8
+Ohio,American Indian/Alaska Native,NA,NA,math_8
+Ohio,Native Hawaiian/Other Pacific Islander,NA,NA,math_8
+Ohio,Two or more races,275,267,math_8
+Tennessee,White,287,281,math_8
+Tennessee,Black,260,250,math_8
+Tennessee,Hispanic,267,259,math_8
+Tennessee,Asian,321,NA,math_8
+Tennessee,American Indian/Alaska Native,NA,NA,math_8
+Tennessee,Native Hawaiian/Other Pacific Islander,NA,NA,math_8
+Tennessee,Two or more races,279,276,math_8
+Texas,White,293,284,math_8
+Texas,Black,265,260,math_8
+Texas,Hispanic,272,265,math_8
+Texas,Asian,318,307,math_8
+Texas,American Indian/Alaska Native,NA,NA,math_8
+Texas,Native Hawaiian/Other Pacific Islander,NA,NA,math_8
+Texas,Two or more races,287,281,math_8
+Utah,White,291,290,math_8
+Utah,Black,NA,NA,math_8
+Utah,Hispanic,263,261,math_8
+Utah,Asian,NA,NA,math_8
+Utah,American Indian/Alaska Native,257,NA,math_8
+Utah,Native Hawaiian/Other Pacific Islander,NA,NA,math_8
+Utah,Two or more races,294,281,math_8
+Virginia,White,294,287,math_8
+Virginia,Black,268,256,math_8
+Virginia,Hispanic,278,264,math_8
+Virginia,Asian,315,317,math_8
+Virginia,American Indian/Alaska Native,NA,NA,math_8
+Virginia,Native Hawaiian/Other Pacific Islander,NA,NA,math_8
+Virginia,Two or more races,293,279,math_8
+Washington,White,292,286,math_8
+Washington,Black,259,257,math_8
+Washington,Hispanic,267,256,math_8
+Washington,Asian,315,299,math_8
+Washington,American Indian/Alaska Native,259,NA,math_8
+Washington,Native Hawaiian/Other Pacific Islander,NA,NA,math_8
+Washington,Two or more races,292,280,math_8
+Wisconsin,White,297,291,math_8
+Wisconsin,Black,250,237,math_8
+Wisconsin,Hispanic,273,264,math_8
+Wisconsin,Asian,294,288,math_8
+Wisconsin,American Indian/Alaska Native,267,NA,math_8
+Wisconsin,Native Hawaiian/Other Pacific Islander,NA,NA,math_8
+Wisconsin,Two or more races,276,277,math_8

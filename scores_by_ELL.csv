@@ -1,0 +1,185 @@
+﻿state,ELL_status,score_2019,score_2022,subject
+Arizona,ELL,207,197,math_4
+Arizona,Not ELL,240,235,math_4
+California,ELL,211,211,math_4
+California,Not ELL,242,237,math_4
+Connecticut,ELL,217,210,math_4
+Connecticut,Not ELL,246,240,math_4
+District of Columbia,ELL,225,222,math_4
+District of Columbia,Not ELL,236,223,math_4
+Florida,ELL,224,216,math_4
+Florida,Not ELL,248,244,math_4
+Illinois,ELL,221,219,math_4
+Illinois,Not ELL,240,242,math_4
+Indiana,ELL,232,220,math_4
+Indiana,Not ELL,246,241,math_4
+Massachusetts,ELL,220,216,math_4
+Massachusetts,Not ELL,251,246,math_4
+Michigan,ELL,222,226,math_4
+Michigan,Not ELL,238,233,math_4
+Minnesota,ELL,219,206,math_4
+Minnesota,Not ELL,253,244,math_4
+Missouri,ELL,223,214,math_4
+Missouri,Not ELL,239,233,math_4
+New Hampshire,ELL,222,211,math_4
+New Hampshire,Not ELL,246,240,math_4
+New Jersey,ELL,216,213,math_4
+New Jersey,Not ELL,248,242,math_4
+New York,ELL,210,203,math_4
+New York,Not ELL,239,230,math_4
+North Carolina,ELL,226,216,math_4
+North Carolina,Not ELL,243,238,math_4
+North Dakota,ELL,220,216,math_4
+North Dakota,Not ELL,244,241,math_4
+Ohio,ELL,217,207,math_4
+Ohio,Not ELL,242,239,math_4
+Tennessee,ELL,210,212,math_4
+Tennessee,Not ELL,242,238,math_4
+Texas,ELL,233,229,math_4
+Texas,Not ELL,247,242,math_4
+Utah,ELL,216,211,math_4
+Utah,Not ELL,247,244,math_4
+Virginia,ELL,225,211,math_4
+Virginia,Not ELL,250,241,math_4
+Washington,ELL,212,205,math_4
+Washington,Not ELL,244,240,math_4
+Wisconsin,ELL,218,217,math_4
+Wisconsin,Not ELL,244,242,math_4
+Arizona,ELL,168,164,reading_4
+Arizona,Not ELL,220,221,reading_4
+California,ELL,189,187,reading_4
+California,Not ELL,226,224,reading_4
+Connecticut,ELL,188,190,reading_4
+Connecticut,Not ELL,229,223,reading_4
+District of Columbia,ELL,196,196,reading_4
+District of Columbia,Not ELL,217,209,reading_4
+Florida,ELL,193,197,reading_4
+Florida,Not ELL,228,228,reading_4
+Illinois,ELL,196,195,reading_4
+Illinois,Not ELL,222,223,reading_4
+Indiana,ELL,205,199,reading_4
+Indiana,Not ELL,224,219,reading_4
+Massachusetts,ELL,196,186,reading_4
+Massachusetts,Not ELL,236,233,reading_4
+Michigan,ELL,200,201,reading_4
+Michigan,Not ELL,220,213,reading_4
+Minnesota,ELL,186,180,reading_4
+Minnesota,Not ELL,228,221,reading_4
+Missouri,ELL,199,186,reading_4
+Missouri,Not ELL,219,215,reading_4
+New Hampshire,ELL,199,193,reading_4
+New Hampshire,Not ELL,225,223,reading_4
+New Jersey,ELL,188,190,reading_4
+New Jersey,Not ELL,230,226,reading_4
+New York,ELL,181,189,reading_4
+New York,Not ELL,223,217,reading_4
+North Carolina,ELL,198,190,reading_4
+North Carolina,Not ELL,224,219,reading_4
+North Dakota,ELL,193,177,reading_4
+North Dakota,Not ELL,222,219,reading_4
+Ohio,ELL,187,179,reading_4
+Ohio,Not ELL,223,220,reading_4
+Tennessee,ELL,176,180,reading_4
+Tennessee,Not ELL,223,217,reading_4
+Texas,ELL,196,199,reading_4
+Texas,Not ELL,222,219,reading_4
+Utah,ELL,195,189,reading_4
+Utah,Not ELL,229,226,reading_4
+Virginia,ELL,195,182,reading_4
+Virginia,Not ELL,227,220,reading_4
+Washington,ELL,180,176,reading_4
+Washington,Not ELL,226,224,reading_4
+Wisconsin,ELL,197,190,reading_4
+Wisconsin,Not ELL,222,220,reading_4
+Arizona,ELL,245,233,math_8
+Arizona,Not ELL,282,274,math_8
+California,ELL,237,236,math_8
+California,Not ELL,282,277,math_8
+Connecticut,ELL,228,229,math_8
+Connecticut,Not ELL,289,279,math_8
+District of Columbia,ELL,241,237,math_8
+District of Columbia,Not ELL,271,262,math_8
+Florida,ELL,239,238,math_8
+Florida,Not ELL,281,274,math_8
+Illinois,ELL,244,242,math_8
+Illinois,Not ELL,285,280,math_8
+Indiana,ELL,260,249,math_8
+Indiana,Not ELL,287,281,math_8
+Massachusetts,ELL,237,227,math_8
+Massachusetts,Not ELL,298,287,math_8
+Michigan,ELL,257,245,math_8
+Michigan,Not ELL,282,274,math_8
+Minnesota,ELL,236,231,math_8
+Minnesota,Not ELL,294,284,math_8
+Missouri,ELL,NA,238,math_8
+Missouri,Not ELL,281,274,math_8
+New Hampshire,ELL,NA,NA,math_8
+New Hampshire,Not ELL,288,280,math_8
+New Jersey,ELL,233,NA,math_8
+New Jersey,Not ELL,295,283,math_8
+New York,ELL,231,231,math_8
+New York,Not ELL,284,278,math_8
+North Carolina,ELL,235,244,math_8
+North Carolina,Not ELL,286,276,math_8
+North Dakota,ELL,NA,NA,math_8
+North Dakota,Not ELL,287,280,math_8
+Ohio,ELL,244,234,math_8
+Ohio,Not ELL,287,277,math_8
+Tennessee,ELL,237,222,math_8
+Tennessee,Not ELL,281,274,math_8
+Texas,ELL,255,255,math_8
+Texas,Not ELL,284,277,math_8
+Utah,ELL,246,246,math_8
+Utah,Not ELL,287,286,math_8
+Virginia,ELL,240,235,math_8
+Virginia,Not ELL,289,282,math_8
+Washington,ELL,243,232,math_8
+Washington,Not ELL,290,281,math_8
+Wisconsin,ELL,248,249,math_8
+Wisconsin,Not ELL,291,283,math_8
+Arizona,ELL,225,216,Reading
+Arizona,Not ELL,262,262,reading_8
+California,ELL,216,220,reading_8
+California,Not ELL,266,267,reading_8
+Connecticut,ELL,220,214,reading_8
+Connecticut,Not ELL,272,267,reading_8
+District of Columbia,ELL,222,226,reading_8
+District of Columbia,Not ELL,252,253,reading_8
+Florida,ELL,224,226,reading_8
+Florida,Not ELL,266,262,reading_8
+Illinois,ELL,218,231,reading_8
+Illinois,Not ELL,268,266,reading_8
+Indiana,ELL,250,230,reading_8
+Indiana,Not ELL,267,263,reading_8
+Massachusetts,ELL,217,215,reading_8
+Massachusetts,Not ELL,276,272,reading_8
+Michigan,ELL,234,229,reading_8
+Michigan,Not ELL,264,260,reading_8
+Minnesota,ELL,212,206,reading_8
+Minnesota,Not ELL,267,264,reading_8
+Missouri,ELL,NA,216,reading_8
+Missouri,Not ELL,264,260,reading_8
+New Hampshire,ELL,NA,NA,reading_8
+New Hampshire,Not ELL,269,264,reading_8
+New Jersey,ELL,199,209,reading_8
+New Jersey,Not ELL,273,272,reading_8
+New York,ELL,211,212,reading_8
+New York,Not ELL,265,266,reading_8
+North Carolina,ELL,210,228,reading_8
+North Carolina,Not ELL,265,259,reading_8
+North Dakota,ELL,NA,NA,reading_8
+North Dakota,Not ELL,264,259,reading_8
+Ohio,ELL,232,227,reading_8
+Ohio,Not ELL,268,263,reading_8
+Tennessee,ELL,219,206,reading_8
+Tennessee,Not ELL,264,260,reading_8
+Texas,ELL,227,239,reading_8
+Texas,Not ELL,261,260,reading_8
+Utah,ELL,219,231,reading_8
+Utah,Not ELL,270,269,reading_8
+Virginia,ELL,206,210,reading_8
+Virginia,Not ELL,265,263,reading_8
+Washington,ELL,211,216,reading_8
+Washington,Not ELL,271,266,reading_8
+Wisconsin,ELL,230,226,reading_8
+Wisconsin,Not ELL,269,264,reading_8

@@ -1,0 +1,93 @@
+﻿state,eligible_2019,eligible_2022,not_eligible_2019,not_eligible_2022,subject
+Arizona,202,201,231,226,reading_4
+California,205,201,236,235,reading_4
+Connecticut,205,201,240,231,reading_4
+District of Columbia,203,194,244,250,reading_4
+Florida,216,215,238,238,reading_4
+Illinois,205,201,233,231,reading_4
+Indiana,209,208,237,228,reading_4
+Massachusetts,213,209,240,242,reading_4
+Michigan,206,198,232,230,reading_4
+Minnesota,205,194,233,226,reading_4
+Missouri,207,197,234,227,reading_4
+New Hampshire,208,204,233,228,reading_4
+New Jersey,210,203,240,234,reading_4
+New York,206,202,237,231,reading_4
+North Carolina,208,200,234,225,reading_4
+North Dakota,209,200,228,224,reading_4
+Ohio,210,201,237,233,reading_4
+Tennessee,202,198,227,221,reading_4
+Texas,206,202,232,232,reading_4
+Utah,208,199,234,231,reading_4
+Virginia,208,192,236,230,reading_4
+Washington,206,201,235,232,reading_4
+Wisconsin,204,201,233,230,reading_4
+Arizona,248,247,272,268,reading_8
+California,248,248,276,274,reading_8
+Connecticut,254,248,280,274,reading_8
+District of Columbia,238,241,277,284,reading_8
+Florida,255,253,276,269,reading_8
+Illinois,251,248,278,274,reading_8
+Indiana,255,249,276,271,reading_8
+Massachusetts,253,254,281,279,reading_8
+Michigan,250,246,274,270,reading_8
+Minnesota,247,242,273,268,reading_8
+Missouri,251,244,275,268,reading_8
+New Hampshire,250,252,275,268,reading_8
+New Jersey,251,251,281,279,reading_8
+New York,250,251,273,277,reading_8
+North Carolina,249,243,273,263,reading_8
+North Dakota,250,243,269,263,reading_8
+Ohio,250,248,281,273,reading_8
+Tennessee,248,243,268,263,reading_8
+Texas,246,248,270,267,reading_8
+Utah,254,252,275,271,reading_8
+Virginia,246,242,272,270,reading_8
+Washington,249,247,282,274,reading_8
+Wisconsin,252,247,278,273,reading_8
+Arizona,226,218,251,242,math_4
+California,223,218,252,250,math_4
+Connecticut,227,219,256,248,math_4
+District of Columbia,226,213,258,257,math_4
+Florida,239,233,256,251,math_4
+Illinois,226,221,249,250,math_4
+Indiana,235,229,256,250,math_4
+Massachusetts,231,225,257,254,math_4
+Michigan,224,220,249,247,math_4
+Minnesota,231,219,259,249,math_4
+Missouri,230,217,251,246,math_4
+New Hampshire,232,224,252,244,math_4
+New Jersey,231,220,257,250,math_4
+New York,226,217,251,243,math_4
+North Carolina,230,219,252,246,math_4
+North Dakota,231,225,249,245,math_4
+Ohio,230,221,254,252,math_4
+Tennessee,226,221,246,243,math_4
+Texas,235,228,257,253,math_4
+Utah,232,222,250,248,math_4
+Virginia,234,218,256,249,math_4
+Washington,228,222,253,248,math_4
+Wisconsin,226,224,254,252,math_4
+Arizona,270,257,291,282,math_8
+California,262,256,298,292,math_8
+Connecticut,263,256,300,290,math_8
+District of Columbia,257,250,299,296,math_8
+Florida,267,261,294,284,math_8
+Illinois,269,259,295,289,math_8
+Indiana,272,265,298,291,math_8
+Massachusetts,272,263,303,298,math_8
+Michigan,265,259,293,286,math_8
+Minnesota,270,258,302,289,math_8
+Missouri,267,256,294,283,math_8
+New Hampshire,270,262,295,284,math_8
+New Jersey,268,259,306,292,math_8
+New York,266,262,294,290,math_8
+North Carolina,268,259,295,282,math_8
+North Dakota,268,263,294,284,math_8
+Ohio,265,259,302,291,math_8
+Tennessee,263,252,288,279,math_8
+Texas,270,264,293,287,math_8
+Utah,266,266,295,289,math_8
+Virginia,270,260,298,291,math_8
+Washington,268,260,302,290,math_8
+Wisconsin,269,263,301,293,math_8
